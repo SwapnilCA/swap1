@@ -14,6 +14,7 @@ public class Product
 	private String name ;
 	private double price ;
 	//pojo class of product with annoatations
+	//product123
 	
 	public int getPid() 
 	{
