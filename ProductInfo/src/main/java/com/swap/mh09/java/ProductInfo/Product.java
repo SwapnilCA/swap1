@@ -13,7 +13,7 @@ public class Product
 	private int Pid;
 	private String name ;
 	private double price ;
-	
+	//pojo class of product with annoatations
 	
 	public int getPid() 
 	{
